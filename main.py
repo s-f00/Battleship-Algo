@@ -1,10 +1,3 @@
-"""
-Future Ideas;
-    * Add a print function that shows you what squares have the highest probability
-    * Add being able to hit a ship and how that would affect the board: If a ship is hit add an indicator to its
-      adjacent squares
-    * fix line 28 in main.py so the code doesn't crash if you type in an invalid coord
-"""
 import util
 board_format = """      
         [A1, A2, A3, A4, A5, A6, A7, A8, A9, A10]
